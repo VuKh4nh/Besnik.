@@ -162,6 +162,15 @@ a {
     align-items: center;
 }
 
+.clients .images a {
+    display: flex;
+    align-items: center;
+    height: 90px;
+    padding: 0 42px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
 /* ========= Guides ========= */
 .guides {
     margin-top: 40px;
